@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="settingsTitle" type="id" />
+    <item name="unitRadioGroup" type="id" />
+    <item name="metricRadioButton" type="id" />
+    <item name="imperialRadioButton" type="id" />
+    <item name="distanceSeekBar" type="id" />
+    <item name="distanceTextView" type="id" />
+    <item name="btnLogOut" type="id" />
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944577296014",
+    "project_id": "radar-bird",
+    "storage_bucket": "radar-bird.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944577296014:android:8132fafb26b6a491003bdf",
+        "android_client_info": {
+          "package_name": "com.example.currentlocation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAwpTg9HV1NZYprdsMm77L9MIQDdoPM_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944577296014:android:c4e54ef9865270fb003bdf",
+        "android_client_info": {
+          "package_name": "com.example.radarbirdapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAwpTg9HV1NZYprdsMm77L9MIQDdoPM_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
