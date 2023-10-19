@@ -30,9 +30,12 @@
 
         <activity android:name=".RegisterPage"></activity>
 
+        <activity android:name=".Home"></activity>
+
+
 
         <!-- Add your Home activity here with the intent-filter -->
-        <activity android:name=".Home" android:exported="true">
+        <activity android:name=".splashScreen" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
